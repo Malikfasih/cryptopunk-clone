@@ -22,5 +22,3 @@ const PunkList = ({ punkListData, setSelectedPunk }) => {
 };
 
 export default PunkList;
-{
-}
